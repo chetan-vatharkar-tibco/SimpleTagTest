@@ -2,6 +2,6 @@
 
 class Simple{
     public static void main(String args[]){
-     System.out.println("Hello Java Basic Program version 3.4.0!");
+     System.out.println("Hello Java Basic Program version 3.5.0!");
     }
 }
